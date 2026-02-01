@@ -1,9 +1,3 @@
-Alright, I’ll give you a **clean, professional README** — not tutorial fluff, not cringe, something you can actually put on GitHub without embarrassment.
-
-I’ll also subtly fix the way this project is *presented*, because presentation matters.
-
----
-
 # 🃏 Game of War – Card Game (JavaScript)
 
 A browser-based implementation of the classic **Game of War**, built using **vanilla HTML, CSS, and JavaScript**, powered by the **Deck of Cards API**.
