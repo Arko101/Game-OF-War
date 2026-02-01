@@ -10,7 +10,12 @@ This project focuses on:
 * Game-state management in JavaScript
 
 ---
+▶️ Play the Game
 
+👉 Live Demo:
+https://letswar.netlify.app/
+
+No setup required — just open the link and play.
 ## 🔧 Tech Stack
 
 * **HTML5** – Structure
